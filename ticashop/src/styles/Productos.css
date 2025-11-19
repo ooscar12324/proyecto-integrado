@@ -1,0 +1,45 @@
+.productos-container {
+  padding: 20px;
+  background-color: #fff;
+  margin: 20px auto;
+  max-width: 1000px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.productos-container h2 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.btn-excel {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  background-color: #1890ff;
+  color: #fff;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+.btn-excel:hover {
+  opacity: 0.8;
+}
+
+.productos-container table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: #fff;
+}
+
+.productos-container th {
+  background-color: #1890ff;
+  color: #fff;
+  padding: 10px;
+}
+
+.productos-container td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}

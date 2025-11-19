@@ -1,0 +1,25 @@
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 15px 0;
+  background-color: #1890ff;
+  color: #fff;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  align-items: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav a:hover {
+  opacity: 0.8;
+}
+
+.cart-indicator {
+  margin-left: 20px;
+  color: #fff;
+}
